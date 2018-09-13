@@ -1,5 +1,5 @@
 # Databases
-SQL Basketball Data Analytics Project from Fall 2017
+SQL Basketball Data Analytics Project from Fall 2017.
 
 Information from an [Open Source Sports database](http://opensourcesports.com/) was extracted using 15 SQL queries.
 
